@@ -1,0 +1,2 @@
+export const APICALL ="APICALL";
+export const APICALL_SUCCESS="APICALL_SUCCESS";
